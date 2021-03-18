@@ -1,7 +1,7 @@
 ## PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
 
-<VER：2.65>
-##### 2020-09-25 更新
+<VER：2.67>
+##### 2021-02-18 更新
 
 ------------
 
@@ -96,7 +96,8 @@
 
 ------------
 
-#### API版接口申请（默认使用免费的演示版）：
+#### API版接口申请（默认使用免费的演示版 | [演示版和API版区别](https://github.com/miaomiaosoft/PandaOCR/wiki/%E6%BC%94%E7%A4%BA%E7%89%88%E5%92%8CAPI%E7%89%88%E5%BC%95%E6%93%8E%E6%8E%A5%E5%8F%A3 "演示版和API版区别")）：
+
 
 ##### 搜狗：
  - OCR：http://deepi.sogou.com （送100/200元体验金 | 可能需要先充点钱才能用）
@@ -122,7 +123,10 @@
  - 翻译：http://ai.youdao.com （送50元体验金）
 
 ##### 阿里：
- - OCR：https://market.aliyun.com/products/57124001/cmapi020020.html （500次/免费）
+ - OCR：https://market.aliyun.com/products/57124001/cmapi020020.html （通用版 | 500次/免费）
+ - OCR：https://market.aliyun.com/products/57124001/cmapi028554.html （高精度 | 500次/免费）
+ - OCR：https://market.aliyun.com/products/57124001/cmapi00040832.html （手写版 | 500次/免费）
+ - OCR：https://market.aliyun.com/products/57124001/cmapi00040847.html （多语种 | 500次/免费）
  - 表格：https://market.aliyun.com/products/57124001/cmapi024968.html （500次/免费）
 
 ##### 讯飞：
@@ -130,7 +134,7 @@
  - 公式：https://www.xfyun.cn/services/formula-discern
  
 ##### 网校（学而思/好未来）：
- - OCR：https://ai.xueersi.com （10万次/天免费 | 10秒间隔/次 | 网站已转移）
+ - OCR：https://ai.xueersi.com （10万次/天免费 | 10秒间隔/次 | 旧站）
  - OCR：https://ai.100tal.com （新站）
 
 ##### Deepl：
@@ -182,7 +186,7 @@
 #### 问题反馈：
 
 - 论坛反馈：https://github.com/miaomiaosoft/PandaOCR/issues
-- QQ群反馈：https://jq.qq.com/?_wv=1027&k=5XjJmJ5 
+- QQ群反馈：https://jq.qq.com/?_wv=1027&k=5XjJmJ5
 
 ------------
 
